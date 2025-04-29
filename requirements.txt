@@ -1,0 +1,8 @@
+voila
+ipywidgets
+numpy
+pandas
+matplotlib
+math
+IPython
+collections
